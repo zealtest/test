@@ -12,7 +12,7 @@
   <div id="wrapper">
     <div class="main-visual">
       <div class="media-cont__text">
-        <h1 class="text1">炎上補償サービス</h1>
+        <h1 class="text1">炎上補償サービス_テスト用</h1>
         <p class="text2">インターネット上の評判・口コミ・SNSを24時間365日監視し、<span class="indent__pc"></span>ネガティブ情報が投稿がされた際には随時ご報告、解決策のご提案をいたします。</p>
         <div class="row cont-size-xx-small">
           <div class="col-sm-4">
